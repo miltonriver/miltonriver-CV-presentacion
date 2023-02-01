@@ -1,0 +1,5 @@
+Buenas tardes. Intenté hacer funcionar el script de un montón de maneras y con varios eventos, pero no pude conseguir que funcionara. Por el contrario, 
+al hacerlo embebido no me dio ningún problema, probablemente tenga un error (casi seguro) pero no pude hacerlo funcionar, seguí las instrucciones de los vídeos
+(los ví un montón de veces) pero no hubo caso, siempre me tiró el mismo error la consola (era en la parte de la función, decía lago así como que no podía 
+distinguirse la función de nula (null) al hacer el evento onclick). Al no haber una instancia de consultas sobre los programas, decidí hacerlo embebido y 
+mostrar además la parte con el script linkeado al programa, para que me den una ayuda en donde puede estar el error. Gracias por leer, saludos Milton
