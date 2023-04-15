@@ -75,6 +75,21 @@ span{
     font-style: italic;
 }
 
+.enlaces:link{
+    color:rgb(15, 75, 121);
+}
+
+/*
+.enlaces:visited{
+    color:rgb(16, 162, 67);
+}
+*/
+
+.enlaces:hover{
+    font-size: 20px;
+    color:rgb(174, 31, 136);
+}
+
 .otros_datos{
     font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
     font-size: 18px;
